@@ -1,0 +1,9 @@
+# Deployed site
+.vercel
+
+# Modules
+node_modules
+
+# Computer navigation
+DS_STORE
+./DS_STORE
